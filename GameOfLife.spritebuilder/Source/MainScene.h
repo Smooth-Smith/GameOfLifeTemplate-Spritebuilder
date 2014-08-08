@@ -10,5 +10,5 @@
 
 @interface MainScene : CCNode
 
+
 @end
-/Users/ArcheusSumma/GameOfLifeTemplate-Spritebuilder/GameOfLife.spritebuilder/Source/MainScene.h
